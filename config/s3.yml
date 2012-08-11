@@ -1,0 +1,17 @@
+production:
+  access_key_id: AKIAJFVZAKKJ2CXVWDEA
+  secret_access_key: 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
+  bucket: dimitri_redmine_production_bucket
+  endpoint:
+  secure:
+  private:
+  expires: 
+
+development:
+  access_key_id: AKIAJFVZAKKJ2CXVWDEA
+  secret_access_key: 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
+  bucket: dimitri_redmine_production_bucket
+  endpoint:
+  secure:
+  private:
+  expires: 

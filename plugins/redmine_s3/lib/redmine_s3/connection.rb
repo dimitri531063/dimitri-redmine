@@ -5,6 +5,7 @@ AWS.config(:ssl_verify_peer => false)
 module RedmineS3
   class Connection
     @@conn = nil
+    @@qs_conn = nil
     @@s3_options = {
       :access_key_id     => nil,
       :secret_access_key => nil,
